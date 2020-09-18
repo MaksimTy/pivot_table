@@ -8,7 +8,5 @@ public class PivotTableApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PivotTableApplication.class, args);
-
     }
-
 }
